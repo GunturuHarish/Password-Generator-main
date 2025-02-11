@@ -98,8 +98,4 @@ This Password Generator project was created by Gaurav Kumar. The project was dev
 - CSS
 - JavaScript
 
----
-
-Feel free to replace "Gaurav Kumar" with your actual name, and adjust any other details as needed.
-
 
